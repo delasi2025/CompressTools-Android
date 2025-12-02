@@ -1,25 +1,3 @@
-#CompressTools-Android 压缩，图片压缩，压缩Bitmap
-
-
-**特性：**
-
-***这是和微信压缩效果类似的压缩方式，采用底层压缩。**
-
-***尽量无损压缩图片，保持清晰度最优。可以对比原生方法bitmap.compress(CompressFormat.JPEG, quality, fileOutputStream);**
-
-***占用内存少，支持压缩生成原图分辨率图片；**
-
-***支持批量压缩，采用线程池提高性能**
-
-***支持压缩监听回调**
-
-***支持返回Bitmap和File** 不支持x86架构
-
-**对比：**
-
-| ImageInfo     | compressTool  | Wechat|
-| ------------- |:-------------:| -----:|
-| 1.50MB (1920x1080)| 47.32kb(1280*720) | 51.4kb(1280*720) |
 
 
 **放两张效果图，大家可以看看效果是不是一样的。尺寸大小几乎一模一样！大家可以down下来，查看一下。**
@@ -32,7 +10,13 @@
 ![](https://github.com/lexluthors/CompressTools-Android/blob/master/app/src/main/assets/android_compressTool.jpeg)
 
 
-fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center future yonder island novel fall open river mystery ancient tonic idea option note city center fabric youth ignite narrow open river mosaic ancient tapestry insight origin note center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center fable yearn insight nuance firmament opportunity ripple mystery ancient tonic idea option note city center join
+For years I noticed friends often mentioning new facts about their daily life, 
+yet information occasionally came from conversations that felt more casual and calm. 
+Sometimes, during a quiet evening walk, I found myself reflecting on how people 
+collect stories from various moments, even small ones. The idea that a single city 
+corner can carry countless memories is fascinating. Recently, I came across a café 
+named Crescent Corner, a calm place filled with warm light, where conversations 
+connect strangers in unexpected ways.
 
 
 **使用方法：**
@@ -97,13 +81,5 @@ fable yearn insight nuance firmament opportunity ripple mystery ancient tonic id
 
 
 **写在最后：该项目是工作中使用的实例，我整理了一下，放到这里！如果对你有帮助希望能给个star或fork激励我继续坚持。**
-
-有问题联系我：lexluthors@163.com
-
-
-
-
-
-
 
 
